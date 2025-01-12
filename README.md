@@ -5,8 +5,7 @@
 
 </p>
 
-🌍 **Location**: Shettihalli, Kolar (Dist), India  
-📞 **Phone**: [+91-8123653289](tel:+918123653289)  
+
 📧 **Email**: [saisundars14@gmail.com](mailto:saisundars14@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/saisundar-s-1b7062269](https://linkedin.com/in/saisundar-s-1b7062269)  
 🐙 **GitHub**: [github.com/SaiSundar-S](https://github.com/SaiSundar-S)  
